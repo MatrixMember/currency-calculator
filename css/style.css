@@ -1,0 +1,56 @@
+html {
+  box-sizing: border-box;
+}
+
+*, ::after, ::before {
+  box-sizing: inherit;
+}
+
+.body {
+  margin: auto;
+  font-family: 'Golos Text', sans-serif;
+  background-color: rgb(173, 173, 173);
+  max-width: 1000px;
+
+}
+
+
+.form__fieldset {
+  background-color: rgb(145, 145, 145);
+  margin: 10px;
+  border: solid black;
+  border-radius: 5px;
+}
+
+.form__legend {
+  background-color: rgb(255, 183, 49);
+  text-align: center;
+  margin: 20px 10px;
+  font-size: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  border: solid black;
+  font-weight: bold;
+}
+
+.form__labelText {
+  width: 130px;
+  display: inline-block;
+  font-weight: bold;
+
+}
+
+.form__button {
+  background-color: rgb(255, 183, 49);
+  margin: 20px;
+  border: solid black;
+  border-radius: 5px;
+  width: 95%;
+font-size: large;
+padding: 7px;
+}
+
+.form__result{
+  font-size: 30px;
+  text-decoration-line: underline;
+}
