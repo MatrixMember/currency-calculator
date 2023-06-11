@@ -25,7 +25,7 @@ html {
 .form__legend {
   background-color: rgb(255, 183, 49);
   text-align: center;
-  margin: 20px 10px;
+  margin: 20px 10px ;
   font-size: 15px;
   padding: 15px;
   border-radius: 10px;
@@ -34,9 +34,10 @@ html {
 }
 
 .form__labelText {
-  width: 130px;
+  max-width: 300px;
   display: inline-block;
   font-weight: bold;
+  width: 150px;
 
 }
 
@@ -46,11 +47,23 @@ html {
   border: solid black;
   border-radius: 5px;
   width: 95%;
-font-size: large;
-padding: 7px;
+  font-size: large;
+  padding: 7px;
 }
 
-.form__result{
+.form__result {
   font-size: 30px;
   text-decoration-line: underline;
+}
+
+
+
+.form__fieldset--currency{
+  max-width: 300px;
+  padding: 5px;
+  margin: 20px;
+  width: 250px;
+  text-align: center;
+  border-radius: 5px;
+border: solid black ;
 }
