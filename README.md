@@ -1,5 +1,5 @@
 # **SIMPLE CURRENCY CALCULATOR**
-![](https://raw.githubusercontent.com/MatrixMember/currency-calculator/main/Images/share.jpg)
+![](https://raw.githubusercontent.com/MatrixMember/currency-calculator/main/Images/share.png)
 ## Quick look into my site
 ![Project image](https://github.com/MatrixMember/currency-calculator/blob/main/Images/Obraz%20projektu.png?raw=true)
 
