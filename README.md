@@ -13,4 +13,4 @@
 - CSS
 - JavaScript
 - BEM convenion
-### Link to the project:
+### Link to the project:https://matrixmember.github.io/currency-calculator/
