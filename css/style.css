@@ -9,7 +9,7 @@ html {
 .body {
   margin: auto;
   font-family: 'Golos Text', sans-serif;
-  background-color: rgb(189, 189, 189);
+ background-image: url("../Images/dolar-wall.jpg");
   max-width: 1000px;
 
 }
