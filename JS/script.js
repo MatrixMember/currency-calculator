@@ -1,4 +1,10 @@
-console.log("Hello!");
+const welcome = () =>{
+    console.log("Hello!");
+}
+
+
+
+
 
 let formElement = document.querySelector(".js-form")
 let amountElement = document.querySelector(".js-amount")
