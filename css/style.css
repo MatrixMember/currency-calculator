@@ -45,7 +45,7 @@ html {
   margin: 5px;
   border: solid black;
   border-radius: 5px;
-  width: 95%;
+  width: 99%;
   font-size: large;
   padding: 7px;
 }
@@ -82,26 +82,26 @@ html {
   border: solid black;
 }
 
-.form_buttonReset{
+.form__buttonReset{
   background-color: rgb(122, 122, 122);
   margin: 5px;
   border: solid black;
   border-radius: 5px;
-  width: 95%;
+  width: 99%;
   font-size: large;
   padding: 7px;
  
   
 }
 
-.form_buttonReset:hover{
+.form__buttonReset:hover{
   background-color: rgb(153, 145, 145);
   font-weight: bold;
   cursor: pointer;
   transform: scale(1.01);
 }
 
-.form_buttonReset:active{
+.form__buttonReset:active{
   background-color: rgb(163, 163, 163);
   cursor: pointer;
   transform: scale(1.03);
