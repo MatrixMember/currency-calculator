@@ -41,14 +41,24 @@ html {
 }
 
 .form__button {
-  background-color: rgb(255, 183, 49);
-  margin: 20px;
+  background-color: rgb(255, 169, 10);
+  margin: 5px;
   border: solid black;
   border-radius: 5px;
   width: 95%;
   font-size: large;
   padding: 7px;
 }
+
+.form__button:hover{
+  background-color: rgba(255, 123, 0, 0.671);
+  font-weight: bold;
+}
+
+.form__button:active{
+  background-color: rgb(255, 190, 68);
+}
+
 
 .form__result {
   font-size: 30px;
@@ -66,4 +76,24 @@ html {
   text-align: center;
   border-radius: 5px;
   border: solid black;
+}
+
+.form_buttonReset{
+  background-color: rgb(122, 122, 122);
+  margin: 5px;
+  border: solid black;
+  border-radius: 5px;
+  width: 95%;
+  font-size: large;
+  padding: 7px;
+  
+}
+
+.form_buttonReset:hover{
+  background-color: rgb(153, 145, 145);
+  font-weight: bold;
+}
+
+.form_buttonReset:active{
+  background-color: rgb(163, 163, 163);
 }
