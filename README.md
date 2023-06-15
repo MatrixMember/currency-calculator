@@ -1,8 +1,7 @@
 # **SIMPLE CURRENCY CALCULATOR**
 ![currency-exchange](https://raw.githubusercontent.com/MatrixMember/currency-calculator/main/Images/share.png)
 ## Quick look into my site
-![Project image](https://github.com/MatrixMember/currency-calculator/blob/main/Images/Obraz%20projektu.png?raw=true)
-
+![Project image](https://github.com/MatrixMember/currency-calculator/blob/main/Images/project-image.png?raw=true)
 ## What my project contains:
 **You can convert PLN currency to three difrent currency:**
 - EUR
