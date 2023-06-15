@@ -53,10 +53,14 @@ html {
 .form__button:hover{
   background-color: rgba(255, 123, 0, 0.671);
   font-weight: bold;
+  cursor: pointer;
+  transform: scale(1.01);
 }
 
 .form__button:active{
   background-color: rgb(255, 190, 68);
+  cursor: pointer;
+  transform: scale(1.03);
 }
 
 
@@ -86,14 +90,19 @@ html {
   width: 95%;
   font-size: large;
   padding: 7px;
+ 
   
 }
 
 .form_buttonReset:hover{
   background-color: rgb(153, 145, 145);
   font-weight: bold;
+  cursor: pointer;
+  transform: scale(1.01);
 }
 
 .form_buttonReset:active{
   background-color: rgb(163, 163, 163);
+  cursor: pointer;
+  transform: scale(1.03);
 }
