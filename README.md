@@ -1,4 +1,4 @@
-# **SIMPLE CURRENCY CALCULATOR**
+# ** CURRENCY CALCULATOR**
 ![currency-exchange](https://raw.githubusercontent.com/MatrixMember/currency-calculator/main/Images/share.png)
 ## Quick look into my site
 ![Project image](https://github.com/MatrixMember/currency-calculator/blob/main/Images/project-image.png?raw=true)
