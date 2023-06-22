@@ -13,7 +13,6 @@ html {
   max-width: 1000px;
 }
 
-
 .form__fieldset {
   background-color: rgb(145, 145, 145);
   margin: 10px;
@@ -63,14 +62,11 @@ html {
   transform: scale(1.03);
 }
 
-
 .form__result {
   font-size: 30px;
   text-decoration-line: underline;
   text-align: center;
 }
-
-
 
 .form__fieldset--currency {
   max-width: 300px;
