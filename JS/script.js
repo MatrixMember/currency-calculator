@@ -3,7 +3,7 @@
         console.log("Hello!");
     };
 
-    welcome();
+    
 
     const calculateResult = (event) => {
         event.preventDefault();
@@ -39,6 +39,7 @@
     const runCalculating = () => {
         const formElement = document.querySelector(".js-form");
         formElement.addEventListener("submit", calculateResult);
+        welcome();
     };
 
     const resetResult = () => {
