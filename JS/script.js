@@ -5,7 +5,7 @@
 
     
 
-    const calculateResult = (event) => {
+    const onFormSubmit = (event) => {
         event.preventDefault();
 
         const amountElement = document.querySelector(".js-amount");
@@ -38,7 +38,7 @@
 
     const runCalculating = () => {
         const formElement = document.querySelector(".js-form");
-        formElement.addEventListener("submit", calculateResult);
+        formElement.addEventListener("submit", onFormSubmit);
         welcome();
     };
 
